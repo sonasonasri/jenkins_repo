@@ -19,12 +19,15 @@ To understand and implement a basic Continuous Integration and Continuous Deploy
 This helps automate code building, testing, and deployment to the cloud.
 
 📁 Project Structure
+```
 project_repo/
 │
 ├── index.html          # Simple web page file
 ├── Jenkinsfile         # Jenkins pipeline script for CI/CD
 ├── README.md           # Project documentation
 └── assets/             # Folder for images, CSS, etc.
+```
+
 
 ⚙️ Jenkins Pipeline Workflow
 
